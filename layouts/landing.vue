@@ -19,7 +19,7 @@ useHead({
     },
     {
       name: 'author',
-      content: 'claudiabdm',
+      content: 'Abdallah',
     },
     {
       property: 'og:image',
@@ -27,7 +27,7 @@ useHead({
     },
     {
       property: 'og:author',
-      content: 'Claudia Benito',
+      content: 'Abdallah Samy',
     },
     {
       property: 'og:title',
@@ -39,7 +39,7 @@ useHead({
     },
     {
       name: 'twitter:creator',
-      content: '@claudiabdm',
+      content: '@AbdallahSamy',
     },
     {
       name: 'twitter:title',
